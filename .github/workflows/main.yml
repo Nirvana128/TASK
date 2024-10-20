@@ -1,4 +1,4 @@
-name: hello-world
+name: TASK
 'on': pash
 jops:
   my-jops:
